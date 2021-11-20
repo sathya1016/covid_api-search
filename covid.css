@@ -1,0 +1,160 @@
+body{
+    background-color:skyblue;
+}
+article{
+    width: 80%;
+    height: 40px;
+    margin-left: 100px;
+    
+}
+.text{
+    text-align: center;
+    font-size: 40px;
+    color: #ff416c;
+    padding: 20px;
+    font-weight:bold ;
+    margin-left: 10% ;
+}
+.country{
+    font-size: 60px;
+
+}
+.main{
+    display: flex;
+    margin-top: -30px;
+    position: relative;
+
+}
+.covid{
+    align-items: center;
+    justify-content: center ;
+}
+
+input{
+    width: 50%;
+    height: 40px;
+    display: flex;
+    border: 1px solid #8343e6;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+    margin-left: 30%;
+    
+}
+
+.country{
+    color:Black;
+}
+
+.pos{
+    background-color:white;
+    color:#ff416c;
+    width: 150px;
+    height: 65px;
+    margin-left: 480px;
+    margin-top: 77px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    text-align: center;
+    border-radius : 40px;
+    height: 80px;
+    border: 2px solid #ff416c;
+}
+.neg{
+    background-color: white;
+    color: #8343e6;
+    border: 2px solid #8343e6;
+    width: 150px;
+    height: 65px;
+    margin-top: 77px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    text-align: center;
+    border-radius: 40px;
+    height: 80px;
+}
+.positive1{
+    margin-top: -15px;
+}
+.positive{
+    font-size: 20px;
+}
+.Deaths1{
+    margin-top: -15px;
+}
+.Deaths{
+    font-size: 20px;
+}
+
+.second{
+    display: flex;
+    margin-top: -15px;
+}
+.active{
+    background-color:white;
+    width: 150px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    text-align: center;
+    border-radius : 40px;
+    height: 80px;
+}
+.Active{
+    margin-top: -15px;
+}
+.Active1{
+    font-size: 20px;
+}
+.recover{
+    background-color:white;
+    width: 150px;
+   margin-left: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    text-align: center;
+    border-radius : 40px;
+    height: 80px;
+}
+.recovered{
+    margin-top: -15px;
+}
+.recovered1{
+    font-size: 20px;
+}
+.po{
+    background-color:white;
+    width: 150px;
+   margin-left: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    text-align: center;
+    border-radius : 40px;
+    height: 80px;
+}
+.positiv1{
+    margin-top: -15px;
+}
+.positiv{
+    font-size: 20px;
+}
+.third{
+    display: flex;
+    margin-top: 25px;
+}
